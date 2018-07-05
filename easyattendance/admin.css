@@ -1,0 +1,78 @@
+@charset "utf-8";
+/* CSS Document */
+/* CSS Document */
+body
+{
+ background:#818E8F;  border: 1px solid;
+ }
+.a
+{
+	width:100%;
+	height:170px;
+	background:#34363E;
+	margin:px;
+	padding:15px;
+	border:white 1px solid;
+	margin:auto;
+}
+.b
+{
+	
+	float:left;
+	padding:05px;
+	margin-left:30px;
+}
+.c
+{
+	width:60%;
+	float:left;
+	font-size:2.6em;
+	font-weight:bold;
+	text-transform:capitalize;
+	margin-top:35px;
+	margin-left:80px;
+	color:white;
+	heightt:50px;
+}
+.d
+{
+	width:100%;
+	height:45px;
+	background:#A63032;
+	border:white 1px solid;
+}
+.f
+{
+	height:110px;
+	padding:30px;
+	left:32%;
+	font-size:2em;
+	font-weight:bold;
+	top:33%;
+	color:#34363E;
+	position:absolute;
+}
+.g
+{
+	height:110px;
+	padding:30px;
+	left:32%;
+	font-size:2em;
+	font-weight:bold;
+	top:43%;
+	position:absolute;
+}
+.h
+{
+    border:red 2px solid;
+	width:920px;
+	height:38px;
+	top:95%;
+	left:50%;
+	position:absolute;
+	box-sizing:border-box;
+	padding-top:10px;
+	color:#3D3636;
+	transform:translate(-50%,-50%);
+
+}
